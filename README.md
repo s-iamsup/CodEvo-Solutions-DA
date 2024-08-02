@@ -26,13 +26,13 @@ Analyze customer sentiment from Yelp reviews to gain experience with real-time w
 Extract relevant information such as the title, author, publish date, and main content from news articles using newspaper3k and feedparser
 
 ### Requirements
--Install and use the Python packages newspaper3k and feedparser.
--Define a function to:
--Parse RSS feeds.
--Extract article URLs.
--Download and parse articles.
--Extract and store relevant information.
--Test the function with multiple RSS feed URLs.
+- Install and use the Python packages newspaper3k and feedparser.
+- Define a function to:
+- Parse RSS feeds.
+- Extract article URLs.
+- Download and parse articles.
+- Extract and store relevant information.
+- Test the function with multiple RSS feed URLs.
 
 ---
 
@@ -64,13 +64,13 @@ https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars
 
 ### Requirements:
 
--Python code for data analysis.
--Exploratory Data Analysis (EDA) to preprocess and understand the data.
--Data visualizations showing:
-  ~Trends in accident occurrences over time.
-  ~Correlation between weather conditions and accidents.
-  ~Hotspots for traffic accidents.
-  ~Summary report with insights and recommendations for improving road safety.
+- Python code for data analysis.
+- Exploratory Data Analysis (EDA) to preprocess and understand the data.
+- Data visualizations showing:
+  ~ Trends in accident occurrences over time.
+  ~ Correlation between weather conditions and accidents.
+  ~ Hotspots for traffic accidents.
+  ~ Summary report with insights and recommendations for improving road safety.
 
 ## TASK 5: ANALYZING INDIAN GOVERNMENT OPEN DATA
 
