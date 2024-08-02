@@ -67,10 +67,10 @@ https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars
 - Python code for data analysis.
 - Exploratory Data Analysis (EDA) to preprocess and understand the data.
 - Data visualizations showing:
-  ~ Trends in accident occurrences over time.
-  ~ Correlation between weather conditions and accidents.
-  ~ Hotspots for traffic accidents.
-  ~ Summary report with insights and recommendations for improving road safety.
+  - Trends in accident occurrences over time.
+  - Correlation between weather conditions and accidents.
+  - Hotspots for traffic accidents.
+  - Summary report with insights and recommendations for improving road safety.
 
 ## TASK 5: ANALYZING INDIAN GOVERNMENT OPEN DATA
 
